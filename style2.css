@@ -1,0 +1,13 @@
+body {
+	background-image: url("background.jpeg");
+	}
+
+	h1 {
+	color: Beige;
+	background-color: rgb(224, 164, 59);
+	text-align: center;
+	}
+
+	p{
+		background-color:rgb(255, 255, 255)
+	}

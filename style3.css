@@ -1,0 +1,14 @@
+table {
+	width: 200px;
+	text-align: center;
+	}
+	.toprow {
+	background-color: rgb(123, 65, 231);
+	color: white;
+	}
+	.bluerow {
+	background-color: rgb(157, 233, 238);
+	}
+	.purplerow {
+	background-color: rgb(244, 224, 248);
+	}

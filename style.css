@@ -1,0 +1,9 @@
+.centering {
+	text-align: center;
+	}
+	.sized {
+	width: 300px;
+	height: 200px;
+	margin-left: 10px;
+	margin-right: 10px;
+	}
